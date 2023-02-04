@@ -29,7 +29,7 @@
 <style lang="scss">
   $white-text: #fff;
   $overlay: #430b9e;
-  $hero-img: url("./jinx-website-wallpaper.png");
+  $hero-img: url("/acemindart/jinx-website-wallpaper.png");
 
   .hero {
     display: flex;

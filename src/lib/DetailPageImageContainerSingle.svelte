@@ -3,7 +3,7 @@
 </script>
 
 <div class="image-container-single-variant">
-  <img alt="adora" {src} />
+  <img alt="adora" src="/acemindart/{src}" />
 </div>
 
 <style lang="scss">
