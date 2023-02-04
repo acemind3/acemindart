@@ -1,5 +1,5 @@
 <script lang="ts">
-    const imageLocations: string[] = ["http://placekitten.com/400/600", "http://placekitten.com/400/300", "http://placekitten.com/400/400"];
+    const imageLocations: string[] = ["Adora.png", "Catra.png", "prime_web.jpg", "duel-web.png", "bmblb_glitch_16x20_small-web.jpg", "bmblb_ios-promo_website.jpg", "red-like-roses_thumbnail_rgb.jpg", "jinx_web.png", "Wednesday_web.png"];
 </script>
 
 <style lang="scss">

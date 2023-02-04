@@ -1,6 +1,7 @@
 <style lang="scss">
   $white-text: #fff;
   $overlay: #430b9e;
+  $hero-img: url("./jinx-website-wallpaper.png");
 
   .hero {
     display: flex;
@@ -66,7 +67,7 @@
 <div class="hero">
     <div class="hero__overlay"/>
     <a class="hero__logo">
-        <img src="http://placekitten.com/100/100" placeholder="lgoo"/>
+        <img src="./Logo-white.png" placeholder="logo"/>
     </a>
     <div class="hero__cta">
         <h1 class="hero__cta_text">Downloads</h1>
