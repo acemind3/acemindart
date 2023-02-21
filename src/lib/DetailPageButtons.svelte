@@ -24,14 +24,14 @@
     color: #ffffff;
 
     &__button {
-      background-color: red;
+      background-color: rgb(255, 95, 95);
       font-size: 20px;
       cursor: pointer;
       display: flex;
       align-items: center;
       padding: 8px 32px;
       border-radius: 80px;
-      color: blue;
+      color: #fff;
       transition: all 0.2s ease-in-out;
       text-decoration: none;
     }

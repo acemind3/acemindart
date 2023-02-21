@@ -4,7 +4,7 @@
 
 <div class="header">
   <Link to="/">
-    <img alt="logo" />
+    <img src="./ace3mind-favicon.png" alt="logo" placeholder="logo" />
   </Link>
 </div>
 
