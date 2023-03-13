@@ -10,7 +10,7 @@
   const isProduction = process.env.NODE_ENV == "production";
 </script>
 
-{#if isProduction}
+{#if !isProduction}
   <UnderConstruction />
 {:else}
   <Router basepath="" {url}>
