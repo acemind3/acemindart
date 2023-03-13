@@ -4,8 +4,8 @@
 </script>
 
 <div class="image-container-double-variant">
-  <img alt="left" src="/acemindart/{srcLeft}" />
-  <img alt="right" src="/acemindart/{srcRight}" />
+  <img alt="left" src={srcLeft} />
+  <img alt="right" src={srcRight} />
 </div>
 
 <style lang="scss">

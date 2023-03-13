@@ -48,7 +48,7 @@
 
 <div id="gallery" class="gallery">
   {#each imageLocations as image}
-    <Link to="/acemindart/{image.link}">
+    <Link to="/{image.link}">
       <img class="gallery__img" src={image.src} placeholder="image" />
     </Link>
   {/each}

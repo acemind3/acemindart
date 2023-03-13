@@ -7,7 +7,7 @@
   export let url = window.location.pathname;
 </script>
 
-<Router basepath="/acemindart" {url}>
+<Router basepath="" {url}>
   <Route path="/adora" component={AdoraPage} />
   <Route path="/"><HomePage /></Route>
 </Router>
